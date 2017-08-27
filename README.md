@@ -23,10 +23,11 @@ Hotword
 Voice Recognition
 ---
 
- * [Mozilla DeepSpeech](https://github.com/mozilla/DeepSpeech) - A TensorFlow implementation of Baidu's DeepSpeech architecture.
+ * [CMU Sphinx](https://github.com/cmusphinx) - is an open source speech recognition system for mobile and server applications.
  * [HTK](http://htk.eng.cam.ac.uk/) - the Hidden Markov Model Toolkit (HTK) is a portable toolkit for building and manipulating hidden Markov models.
  * [Julius](http://julius.osdn.jp/en_index.php) - is a high-performance, two-pass large vocabulary continuous speech recognition (LVCSR) decoder software for speech-related researchers and developers. 
  * [Kaldi](https://github.com/kaldi-asr/kaldi) - is a speech recognition toolkit, freely available under the Apache License.
+ * [Mozilla DeepSpeech](https://github.com/mozilla/DeepSpeech) - A TensorFlow implementation of Baidu's DeepSpeech architecture.
 
 Libs
 ---
