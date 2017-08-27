@@ -37,6 +37,12 @@ Apps
 
  * [Flask-Ask](https://github.com/johnwheeler/flask-ask) - is a Flask extension that makes building Alexa skills for the Amazon Echo easier and much more fun.
 
+Data & Models
+---
+
+ * [THCHS30](http://data.cslt.org/thchs30/standalone.html) - is an open Chinese speech database published by Center for Speech and Language Technology (CSLT) at Tsinghua University.
+ * [THCHS30 Kaldi](http://data.cslt.org/thchs30-openslr/README.html) - is an open Chinese speech database published by Center for Speech and Language Technology (CSLT) at Tsinghua University.
+
 Tutorials
 ---
 
