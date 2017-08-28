@@ -19,6 +19,7 @@ Hotword
 ---
 
  * [Snowboy](https://github.com/Kitt-AI/snowboy) - is a DNN based hotword and wake word detection toolkit.
+ * [Mycroft Precise](https://github.com/MycroftAI/mycroft-precise) - is a neural network wake word listener for embedded architectures.
  
 Voice Recognition
 ---
@@ -38,7 +39,7 @@ TTS
  * [Festival](http://www.cstr.ed.ac.uk/projects/festival/) - ffers a general framework for building speech synthesis systems as well as including examples of various modules. 
  * [MARY TTS](https://github.com/marytts/marytts) - an open-source, multilingual text-to-speech synthesis system written in pure java.
  * [Merlin](https://github.com/CSTR-Edinburgh/merlin) - is a toolkit for building Deep Neural Network models for statistical parametric speech synthesis.
- * [mimic](https://github.com/MycroftAI/mimic) - is a fast, lightweight Text-to-speech engine developed by Mycroft A.I. and VocaliD, based on Carnegie Mellon University’s Flite (Festival-Lite) software. 
+ * [Mimic](https://github.com/MycroftAI/mimic-core) - is a fast, lightweight Text-to-speech engine developed by Mycroft A.I. and VocaliD, based on Carnegie Mellon University’s Flite (Festival-Lite) software. 
 
 Libs
 ---
