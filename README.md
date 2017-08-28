@@ -41,6 +41,21 @@ TTS
  * [Merlin](https://github.com/CSTR-Edinburgh/merlin) - is a toolkit for building Deep Neural Network models for statistical parametric speech synthesis.
  * [Mimic](https://github.com/MycroftAI/mimic-core) - is a fast, lightweight Text-to-speech engine developed by Mycroft A.I. and VocaliD, based on Carnegie Mellon University’s Flite (Festival-Lite) software. 
 
+NLP
+---
+
+ * [Ansj中文分词](https://github.com/NLPchina/ansj_seg) - 一个基于n-Gram+CRF+HMM的中文分词的java实现。
+ * [compromise](https://github.com/nlp-compromise/compromise) - Natural language processing in javascript.
+ * [FudanNLP](https://github.com/FudanNLP/fnlp) - is developed for Chinese natural language processing (NLP), which also includes some machine learning algorithms and [DataSet data sets] to achieve the NLP tasks. FudanNLP is distributed under LGPL3.0.
+ * [Jieba](https://github.com/fxsjy/jieba) - is a Chinese text segmentation: built to be the best Python Chinese word segmentation module.
+ * [gensim](https://github.com/RaRe-Technologies/gensim) - is a Python library for topic modelling, document indexing and similarity retrieval with large corpora.
+ * [HanLP](https://github.com/hankcs/HanLP) - 是由一系列模型与算法组成的Java工具包，目标是普及自然语言处理在生产环境中的应用。HanLP具备功能完善、性能高效、架构清晰、语料时新、可自定义的特点。
+ * [NLTK](https://github.com/nltk/nltk) - is a suite of open source Python modules, data sets and tutorials supporting research and development in Natural Language Processing.
+ * [Stanford CoreNLP](https://github.com/stanfordnlp/CoreNLP) - provides a set of natural language analysis tools written in Java.
+ * [spaCy](https://github.com/explosion/spaCy) - is a library for advanced natural language processing in Python and Cython.
+ * [TextBlob](https://github.com/sloria/TextBlob) - is a Python (2 and 3) library for processing textual data.
+ 
+ 
 Libs
 ---
 
