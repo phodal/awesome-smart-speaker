@@ -57,6 +57,16 @@ Data & Models
 Tutorials
 ---
 
+ * [AVS on a Raspberry Pi step-by-step](https://github.com/alexa/alexa-avs-sample-app/wiki/Raspberry-Pi) - this guide provides step-by-step instructions for setting up AVS on a Raspberry Pi. It demonstrates how to access and test AVS using our Java sample app (running on a Raspberry Pi), a Node.js server, and a third-party wake word engine. You will use the Node.js server to obtain a Login with Amazon (LWA) authorization code by visiting a website using your Raspberry Pi's web browser.
+  * [Diy Smart Home Assistant With Raspberry Pi and ReSpeaker Mic Array](http://www.instructables.com/id/Diy-Smart-Home-Assistant-With-Raspberry-Pi-and-ReS/) - ReSpeaker Mic Array, as the “ear” of Raspberry Pi here, can listen to your speech commands and send them to Raspberry Pi. According to your commands, Raspberry Pi will control Wio Link to do what you want via Wi-Fi.
+  
+
+### CMU Sphinx
+
+ * [Install PocketSphinx on a Raspberry Pi](https://cmusphinx.github.io/wiki/raspberrypi/)
+ * [PocketSphinx语音识别系统语言模型的训练和声学模型的改进](http://blog.csdn.net/zouxy09/article/details/7949126) 
+
 Documents
 ---
 
+ * [Snowboy, a Customizable Hotword Detection Engine as Smart Speaker](http://docs.kitt.ai/snowboy/) 
