@@ -76,6 +76,8 @@ Architecture
 
 ### AWS Example
 
+Origin Documents：[https://github.com/alexa/avs-device-sdk](https://github.com/alexa/avs-device-sdk)
+
 This diagram illustrates the data flows between components that comprise the AVS Device SDK for C++. 
 
 ![SDK Architecture Diagram](./alexa_device_sdk_architecture.png)
